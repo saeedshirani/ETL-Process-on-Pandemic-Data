@@ -35,7 +35,7 @@ git clone https://github.com/saeedshiranii/ETL-Process-on-Pandemic-Data.git
 
 5. Run the ETL pipeline to extract, transform, and load COVID-19 data into the database.
 
-6. downloading Large Files: to download datasets and databases go to this link:![Get Data](https://github.com/saeedshiranii/Data_Analysis/tree/main/Pesronal%20projects/ETL%20Process%20on%20Pandemic%20Data)
+6. downloading Large Files: to download datasets and databases go to this link:[Get Data](https://github.com/saeedshiranii/Data_Analysis/tree/main/Pesronal%20projects/ETL%20Process%20on%20Pandemic%20Data)
 
 ## Contributing
 
