@@ -66,7 +66,7 @@ We acknowledge the valuable contributions of the Our World in Data team for prov
 [![Our World in Data](https://i.ibb.co/rGPDRWP/Our-World-in-Data-logo.png)](https://ourworldindata.org/)
 
 
-## 🛠 Skills
+## 🛠 Tools
 
 | **`Tool`** | **`Icon`** |
 |---|---|
@@ -75,8 +75,7 @@ We acknowledge the valuable contributions of the Our World in Data team for prov
 | **`SQLite`** |  <img alt="Go SDK" src=https://github.com/saeedshiranii/ETL-Process-on-Pandemic-Data/assets/77902443/f81e8e8f-d557-4486-9893-4a1facb51e80 width="150px"/>  | 
 | **`MySQL`** |  <img alt="Go SDK" src=https://github.com/saeedshiranii/ETL-Process-on-Pandemic-Data/assets/77902443/b43346fd-1b12-4dfe-9f97-728a75ae0824 width="150px"/>  | 
 | **`Data Cleaning`**| <img alt="Go SDK" src="https://i.ibb.co/mGtCtxD/Data-cleaning-high-resolution-logo-transparen-1.png" width="150px"/> |
-| **`Extract, Transform, Load (ETL)`** ||
-| **`Writing Report`** ||
+
 
 ## Contact
 
