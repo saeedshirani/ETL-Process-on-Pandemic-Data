@@ -66,21 +66,6 @@ We acknowledge the valuable contributions of the Our World in Data team for prov
 [![Our World in Data](https://i.ibb.co/rGPDRWP/Our-World-in-Data-logo.png)](https://ourworldindata.org/)
 
 
-
-## Requirements
-
-- To work with this project, you'll need to have Python installed, along with these libraries: numpy, pandas, sqlite3, pymysql
-
-- SQL 
-- SQLite3
-- MySQL
-
-
-
-
-
-
-
 ## 🛠 Skills
 
 | **`Tool`** | **`Icon`** |
