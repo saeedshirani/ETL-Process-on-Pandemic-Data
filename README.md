@@ -83,27 +83,15 @@ We acknowledge the valuable contributions of the Our World in Data team for prov
 
 ## 🛠 Skills
 
-- **Python programming**
-- **SQL Proficiency Required**
-- **SQLite**
-- **MySQL**
-- **Data Cleaning**
-- **Extract, Transform, Load (ETL)**
-- **Writing Report**
-
-
-
-
-
-![Python](https://i.ibb.co/Ctbbzmh/Python-logo-notext-svg.png)
-
-
-![SQL](https://i.ibb.co/LC6Qyf4/Introduction-to-SQL.png)
-
-![MySQL](https://i.ibb.co/G3z6FY8/My-SQL-Logo-wine.png)
-
-![SQLite](https://i.ibb.co/m9V5ygh/1f-MPUMki182-Hzy-VZvo-aw-Dw.webp)
-
+| **`Tool`** | **`Icon`** |
+|---|---|
+| **`Python`** | <img alt="Go SDK" src="https://github.com/saeedshiranii/Solide-State-1-Lab/assets/77902443/93f61ef1-817b-4866-ad40-b0334c345cae" width="150px"/> |
+| **`SQL Proficiency Required`** | <img alt="Go SDK" src=https://github.com/saeedshiranii/ETL-Process-on-Pandemic-Data/assets/77902443/a7ac2a76-63f9-4e0a-af0a-f9c0f98c6fb1 width="150px"/>  | 
+| **`SQLite`** |  <img alt="Go SDK" src=https://github.com/saeedshiranii/ETL-Process-on-Pandemic-Data/assets/77902443/f81e8e8f-d557-4486-9893-4a1facb51e80 width="150px"/>  | 
+| **`MySQL`** |  <img alt="Go SDK" src=https://github.com/saeedshiranii/ETL-Process-on-Pandemic-Data/assets/77902443/b43346fd-1b12-4dfe-9f97-728a75ae0824 width="150px"/>  | 
+| **`Data Cleaning`**| <img alt="Go SDK" src="https://i.ibb.co/mGtCtxD/Data-cleaning-high-resolution-logo-transparen-1.png" width="150px"/> |
+| **`Extract, Transform, Load (ETL)`** ||
+| **`Writing Report`** ||
 
 ## Contact
 
