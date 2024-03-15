@@ -1,6 +1,7 @@
 # COVID-19 Data ETL Project
 
 This project aims to establish a robust Extract, Transform, and Load (ETL) process for handling COVID-19 data sourced from [Our World in Data](https://ourworldindata.org/covid-deaths). As the volume of COVID-19 data continues to expand over time, traditional spreadsheet platforms become unsuitable for managing and analyzing such data. Thus, the decision was made to create a dedicated database for COVID-19 data management.
+This dataset exclusively comprises data pertaining to countries with populations exceeding 10 million.
 
 ## Objective
 
@@ -33,6 +34,8 @@ git clone https://github.com/saeedshiranii/ETL-Process-on-Pandemic-Data.git
 4. Explore the source code to understand the ETL process implementation.
 
 5. Run the ETL pipeline to extract, transform, and load COVID-19 data into the database.
+
+6. downloading Large Files: to download datasets and databases go to this link:![Get Data]([https://i.ibb.co/m9V5ygh/1f-MPUMki182-Hzy-VZvo-aw-Dw.webp](https://github.com/saeedshiranii/Data_Analysis/tree/main/Pesronal%20projects/ETL%20Process%20on%20Pandemic%20Data))
 
 ## Contributing
 
