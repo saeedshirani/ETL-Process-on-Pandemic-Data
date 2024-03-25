@@ -5,3 +5,8 @@ Database Creation/CovidVaccinations.csv
 Database Creation/Original Data/owid-covid-data_original_ver.csv
 Database Creation/CovidDeaths.csv
 Ready/mysql_Covid19.sql
+1.Database Creation/Covid19.db
+1.Database Creation/Covid19.sql
+1.Database Creation/CovidDeaths.csv
+1.Database Creation/CovidVaccinations.csv
+4.Ready/mysql_Covid19.sql
